@@ -11,3 +11,7 @@ ul,li,a{
   list-style-type: none;
   display: inline;
 }
+
+a:hover{
+  color: red;
+}
